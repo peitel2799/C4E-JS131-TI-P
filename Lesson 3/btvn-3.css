@@ -1,0 +1,163 @@
+/* HEADER */
+.header {
+    border: 0;
+    background-color: green;
+    padding-right: 10px;
+    box-align: center;
+    width: 100%;
+}
+
+.header-0 {
+    size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.category {
+    size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.space {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.table-0 {
+    background-color: black;
+    width: 100%;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+ /* LỜI CHÀO */
+h2 {
+    color: white;
+    size: 8px;
+    text-align: center;
+}
+
+hr {
+    border: 0px;
+    margin: 1px;
+}
+/* TABLE 1 */
+.table-1 {
+    background-color: black;    
+    width: 100%;
+}
+
+.title-1 {
+    color: green;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+.table-1-1 {
+    height: 141px;
+    width: 193px;
+    padding: 80px;
+}
+
+
+.table-1-2 {
+    color: white;
+    size: 6px;
+    padding-left: 100px;
+}
+/* TABLE 2 */
+.title-2 {
+    color: black;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: grey;
+}
+
+.table-2 {
+    background-color: grey;
+    width: 100%;
+}
+
+.table-2-1 {
+    color: white;
+    size: 6px;
+    padding-left: 100px;
+}
+
+.table-2-2 {
+    height: 141px;
+    width: 193px;
+    padding: 80px;
+}
+
+/* TABLE 3 */
+.title-3 {
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+.table-3 {
+    background-color: black;
+    width: 100%;
+}
+
+.table-3-1 {
+    color: white;
+    size: 6px;
+    padding-left: 100px;
+}
+
+/* Liệt kê */
+li {
+    padding: 4px;
+}
+
+/* CONTACTS */
+.title-4 {
+    color: black;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: grey;
+}
+.table-4 {
+    width: 100%;
+    background-color: grey;
+}
+
+.table-4-1 {
+    align: center;
+}
+
+button {
+    margin-left: 120px;
+}
+
+/* footer */
+.table-5 {
+    width: 100%;
+    border: 0px;
+    
+    border-collapse: collapse;
+}
+
+.table-5-1 {
+    background-color: green;
+    
+}
+
+.table-5-2 {
+    background-color: grey;
+    padding: 0px;
+    
+
+}
+
+a {text-decoration: none}
